@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsüllemeÖrnek\obj\Debug\ConsoleAppKapsüllemeÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsüllemeÖrnek\bin\Debug\ConsoleAppKapsüllemeÖrnek.exe.config
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsüllemeÖrnek\bin\Debug\ConsoleAppKapsüllemeÖrnek.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsüllemeÖrnek\bin\Debug\ConsoleAppKapsüllemeÖrnek.pdb
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsüllemeÖrnek\obj\Debug\ConsoleAppKapsüllemeÖrnek.exe
+C:\Users\Asus\source\repos\CSharp2\ConsoleAppKapsüllemeÖrnek\obj\Debug\ConsoleAppKapsüllemeÖrnek.pdb
